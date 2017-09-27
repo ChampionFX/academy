@@ -1,0 +1,5 @@
+{% assign coresource = site.github.url %}
+	{% if coresource contains "https" %}{% assign cfxSource = site.github.url %}
+{% else %}
+	{% assign cfxSource = site.github.url | replace: 'http', 'https' %}
+{% endif %}
