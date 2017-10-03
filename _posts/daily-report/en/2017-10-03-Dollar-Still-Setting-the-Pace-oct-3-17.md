@@ -27,4 +27,4 @@ Following this, we get UK Construction PMI at 09.30.
 
 FOMC Member Powell speaks at 13.30.
 
-<p><img src="{{ "/assets/images/daily-report/2017-10-02_06-28-11.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
+<p><img src="{{ "/assets/images/daily-report/03-10-2017-12-08-23.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
