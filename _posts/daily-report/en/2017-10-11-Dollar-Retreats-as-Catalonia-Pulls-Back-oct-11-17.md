@@ -1,6 +1,6 @@
 ---
 layout: daily-report-post
-title: "ollar Retreats as Catalonia Pulls Back"
+title: "Dollar Retreats as Catalonia Pulls Back"
 language: en
 permalink: /en/Dollar-Retreats-as-Catalonia-Pulls-Back-oct-11-17/
 sub: report
