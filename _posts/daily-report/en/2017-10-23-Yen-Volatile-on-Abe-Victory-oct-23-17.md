@@ -1,28 +1,24 @@
 ---
 layout: daily-report-post
-title: "Yen Volatile on Abe Victory"
+title: "Euro Depressed on Catalonia Unrest"
 language: en
-permalink: /en/Markets-Turn-on-New-Zealand-Leader-oct-20-17/
+permalink: /en/Euro-Depressed-on-Catalonia-Unrest-oct-24-17/
 sub: report
 tag: daily-report
-excerpt: "This morning, the Japanese yen is recovering after an initially slumping at the open. Abe’s victory is thought to point to a looser monetary policy, but it seems markets may have got ahead of themselves first thing this morning..."
+excerpt: "This morning, the euro remains under pressure as Catalan separatists threaten to form human shields to block Spanish authorities attempts to take direct control of the region..."
 ---
 ### Morning Report: 07.00 London
 
-This morning, the Japanese yen is recovering after an initially slumping at the open. Abe’s victory is thought to point to a looser monetary policy, but it seems markets may have got ahead of themselves first thing this morning. The USD/JPY gapped higher, as did other yen pairs, but this move is reversing as we move through the morning. 
+This morning, the euro remains under pressure as Catalan separatists threaten to form human shields to block Spanish authorities attempts to take direct control of the region. The EUR/USD was unable to close yesterday’s opening gap lower yesterday, while the EUR/GBP remains on the back foot. 
 
-This reversal is impacting the dollar, as the greenback has opened on the back foot this morning, helping the main dollar pairs to rise. The GBP/USD and AUD/USD are on the up, but the EUR/USD has some way to go after gapping lower at the open. 
+By contrast, the GBP/USD has managed to make gains for the last three days. 
 
-The pound continues to out-perform after better than expected public spending figures on Friday and a EUR/USD slump. The EUR/GBP reversed significantly in the final trading session of last week and is trading lower again this morning. 
+Dollar pairs are generally on the back foot as the US dollar makes back some of yesterday’s losses. 
 
-The USD/CAD shot higher Friday after dire Canadian inflation and retail sales. The pair is pulling back slightly this morning. 
-
-Gold gapped lower at the open, but is recovering a little as we move through the morning. 
+Yen pairs are making gains again after the USD/JPY reversed yesterday’s opening gap higher.  
 
 ### Coming up today 
 
-We have a relatively quiet day today on the economic news front. 
+Today we have French Flash Manufacturing PMI at 08.00, released alongside flash services PMI. Equivalent German data follows at 08.30, with pan European data at 09.00.
 
-We have Canadian Wholesale sales at 13.30.
-
-<p><img src="{{ "/assets/images/daily-report/2017-10-23_07-35-20.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
+<p><img src="{{ "/assets/images/daily-report/2017-10-24_07-13-22.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
