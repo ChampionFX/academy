@@ -21,7 +21,7 @@ Elsewhere, the USD/CAD has continued its advance, marking seven straight days of
 
 Gold is unchanged this morning, but yesterday continued its reversal. 
 
-## Coming up today 
+### Coming up today 
 
 Today, we have US advance GDP at 13.30, released alongside advance GDP price index. 
 
