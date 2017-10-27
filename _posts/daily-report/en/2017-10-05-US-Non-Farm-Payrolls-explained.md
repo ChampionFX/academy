@@ -4,7 +4,7 @@ title: "U.S. Non-Farm Payrolls - explained"
 language: en
 permalink: /en/US-Non-Farm-Payrolls-explained/
 sub: blog
-tag: cfxpost
+tag: daily-report
 excerpt: "Experienced or novice in the trading field, everyone heard about Non-Farm Payrolls or NFP. If you have experience, you already know what could be the impact on a short or medium term of this event..."
 ---
 Experienced or novice in the trading field, everyone heard about Non-Farm Payrolls or NFP. If you have experience, you already know what could be the impact on a short or medium term of this event; but if you just started, maybe it would be useful to learn more about it. Non-Farm Payrolls, as the name says, represents the total number of Public jobs added in the U.S. in the previous month excluding Farming sector. The Farming sector is excluded due to its seasonality, which will alter the general view of the Public employment evolution. Federal Reserve, the US "Central Bank" (in fact privately control), has a dual mandate: the first one is to achieve the 2% Inflation target; the second one is to achieve "maximum employment". So, as you can understand, NFP is extremely important not only because employment is one of the pillars of a healthy (or poor) economy, but also because it has a high influence over future monetary policy changes of Fed, leading to an increase or decrease of key interest rate.
