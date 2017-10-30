@@ -1,6 +1,6 @@
 ---
 layout: daily-report-post
-title: "US Dollar Remains Dominant"
+title: "Euro Higher Despite Catalan Uncertainty"
 language: en
 permalink: /en/Euro-Higher-Despite-Catalan-Uncertainty-oct-30-17/
 sub: report
